@@ -101,7 +101,7 @@ Now that your device is sending data to Azure IoT Hub and/or IoT Central, you ha
 - [Azure IoT Security](https://azure.microsoft.com/en-us/overview/iot/security/)
 - [Azure Security Center for IoT](https://docs.microsoft.com/en-us/azure/asc-for-iot/overview)
 - [IoT Security Architecture](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-security-architecture)
-- [IoT Security Best Practives](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-security-best-practices)
+- [IoT Security Best Practices](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-security-best-practices)
 - [Secure Deployment of IoT](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-security-deployment)
 
 
