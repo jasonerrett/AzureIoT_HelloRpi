@@ -9,17 +9,43 @@ If you were looking for Azure Sphere, go [here](https://github.com/jasonerrett/A
 - Open Github Desktop, click File -> Clone Repository -> Url tab -> Paste the url into the box -> specify the local folder to clone into -> hit **'Clone'**
 - If you'd like more information... [Github Tutorial](https://lab.github.com/githubtraining/paths/first-day-on-github)
 
+## Tools
+These are not all required.  I will show some of them in the video, but if you have tools you prefer that work just fine, by all means use what you like.  All of these are freely available.
+- [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)
+- [VSCode](https://code.visualstudio.com/Download) is a cross-platform IDE
+- [SD Card Formatter](https://www.sdcard.org/downloads/formatter/)
+- [Etcher](https://www.balena.io/etcher/)
+
 ## Getting Started with Raspberry Pi
+If you just want to follow an existing guide on Azure Docs, feel free to skip this section.
 - Hardware Overview
-- Optional Peripherals
+    - GPIO pins are your gateway to interacting with the "real" world.  This site, [Learn Robotics](https://www.learnrobotics.org/blog/raspberry-pi-gpio/
+), has a good explanation of the hardware layout and pins
+- Common starter dev/test Peripheral
+    - [Sense Hat](https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat) - One "hat" with multiple sensors built in
 - Software / Setup
-- Additional Resources
+    1. Read the [Easy SD Card Setup](https://elinux.org/RPi_Easy_SD_Card_Setup) process to prepare your SD Card for installation
+    2. Go to [RaspberryPi.org](https://www.raspberrypi.org/downloads/raspbian/) and download the Raspbian OS image (zip file).  Including an image labeled **'with Desktop'** will provide a more familiar experience for those of you who enjoy graphical UI's
+    3. Use [Etcher](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) to flash the OS image to the SD Card
+    4. Connect a usb keyboard/mouse, and a monitor, then connect a micro-usb cable to the Pi for power
+        - *Note: If you want to use a remote viewer after the initial install, Raspberry Pi's come installed with VNC Viewer.  There just a little bit of [configuration](https://www.realvnc.com/en/connect/docs/raspberry-pi.html#raspberry-pi-setup) that has to be done first. Oh yeah, and you'll need a wifi or wired network connection ;)*
+    5. Done.  Ready for sensors and coding fun!
 
 ## Connecting the Raspberry Pi *Simulator* to Azure IoT Hub
+The fastest way to get started with streaming data into Azure is using a simulator.  Simulators give you a way to see what a test stream of data will look like as it passes through back end services.
+- [Getting Started with the Raspberry Pi Simulator](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started)
+
 
 ## Connecting the Real-world Raspberry Pi to Azure IoT Hub
+The Raspberry Pi is now running a version of Linux.  What this means for you is that you can now do basically whatever you want.
 
-## Real-time Processing / Real-time Action
+Here are a couple of guides you may be intersted in:
+- [Connect Raspberry Pi to Azure IoT Hub (Node.js)](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-kit-node-get-started)
+- [Connect Raspberry Pi to Azure IoT Hub (C)](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-kit-c-get-started)
+- [Azure IoT Hub get started with physical devices tutorials](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-get-started-physical)
+
+## What Now?
+Now that your device is sending data to Azure IoT Hub and/or IoT Central, you have an enormous amount of capabilities to add and explorer.  Below are just a few of the most common data services typically used in IoT architectures.
 
 ## Azure Services Common in IoT Architectures
 - [Example Architecture Diagram](images/AzureIoTArchitecture.png
