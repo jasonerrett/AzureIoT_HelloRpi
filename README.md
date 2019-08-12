@@ -11,6 +11,7 @@ If you were looking for Azure Sphere, go [here](https://github.com/jasonerrett/A
 
 ## Tools
 These are not all required.  I will show some of them in the video, but if you have tools you prefer that work just fine, by all means use what you like.  All of these are freely available.
+- [Azure Device Explorer](https://github.com/Azure/azure-iot-sdk-csharp/releases/download/2019-1-4/SetupDeviceExplorer.msi) (Helpful if using IoT Hub)
 - [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)
 - [VSCode](https://code.visualstudio.com/Download) is a cross-platform IDE
 - [SD Card Formatter](https://www.sdcard.org/downloads/formatter/)
