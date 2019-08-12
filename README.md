@@ -65,7 +65,7 @@ Now that your device is sending data to Azure IoT Hub and/or IoT Central, you ha
 - Integration & Visualization
     - [Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
     - [Power BI](https://docs.microsoft.com/en-us/power-bi/power-bi-overview)
-- Disconnected Scenarios
+- Disconnected Scenarios (Very cool stuff)
     - [IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/about-iot-edge)
     - [Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-intro)
 - Artification Intelligence
