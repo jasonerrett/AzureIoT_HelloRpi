@@ -53,6 +53,11 @@ If you were looking for Azure Sphere, go [here](https://github.com/jasonerrett/A
     - Bring-your-Own on [Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/)
 
 ## Azure Solution Accelerators
+- [IoT Solution Accelerators](https://azure.microsoft.com/en-us/features/iot-accelerators/)
+    - Remote Monitoring
+    - Device Simulation
+    - Connected Factory
+    - Predictive Maintenance
 
 ## Free Supplemental Learning Materials
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
