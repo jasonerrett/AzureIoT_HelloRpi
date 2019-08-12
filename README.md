@@ -15,7 +15,7 @@ If you were looking for Azure Sphere, go [here](https://github.com/jasonerrett/A
 - Software / Setup
 - Additional Resources
 
-## Connecting the Raspberry Pi Simulator to Azure IoT Hub
+## Connecting the Raspberry Pi **Simulator** to Azure IoT Hub
 
 ## Connecting the Real-world Raspberry Pi to Azure IoT Hub
 
