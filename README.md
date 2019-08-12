@@ -93,6 +93,15 @@ Now that your device is sending data to Azure IoT Hub and/or IoT Central, you ha
 - [Microsoft Professional Certification Programs](https://www.edx.org/course/?type=Professional%20Certificate&school=Microsoft%3A%20Microsoft) *Note: free if just learning, but there is a fee to receive certification upon completion*
 - [Other edX Courses](https://www.edx.org/course?search_query=Azure)
 
+## Other Useful Stuff
+- [Custom Vision at the Edge Walkthrough](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-custom-vision)
+- [Using the MXChip IoT DevKit](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-door-monitor)
+- [Azure IoT Secrurity](https://azure.microsoft.com/en-us/overview/iot/security/)
+- [Azure Security Center for IoT](https://docs.microsoft.com/en-us/azure/asc-for-iot/overview)
+- [IoT Security Architecture](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-security-architecture)
+- [IoT Security Best Practives](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-security-best-practices)
+- [Secure Deployment of IoT](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-security-deployment)
+
 
 
 
