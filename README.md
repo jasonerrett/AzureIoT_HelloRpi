@@ -98,7 +98,7 @@ Now that your device is sending data to Azure IoT Hub and/or IoT Central, you ha
 - [Custom Vision at the Edge Walkthrough](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-custom-vision)
 - [Container Support in Azure Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support)
 - [Using the MXChip IoT DevKit](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-door-monitor)
-- [Azure IoT Secrurity](https://azure.microsoft.com/en-us/overview/iot/security/)
+- [Azure IoT Security](https://azure.microsoft.com/en-us/overview/iot/security/)
 - [Azure Security Center for IoT](https://docs.microsoft.com/en-us/azure/asc-for-iot/overview)
 - [IoT Security Architecture](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-security-architecture)
 - [IoT Security Best Practives](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-security-best-practices)
