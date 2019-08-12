@@ -49,6 +49,8 @@ Here are a couple of guides you may be intersted in:
 ## What Now?
 Now that your device is sending data to Azure IoT Hub and/or IoT Central, you have an enormous amount of capabilities to add and explorer.  Below are just a few of the most common data services typically used in IoT architectures.
 
+Azure Portal: **https://portal.azure.com**
+
 ## Azure Services Common in IoT Architectures
 - [Example Architecture Diagram](images/AzureIoTArchitecture.png
 )
