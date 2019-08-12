@@ -1,4 +1,4 @@
-# AzureIoT - Getting Started with Raspberry Pi
+# Azure IoT - Getting Started with Raspberry Pi
 The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It is a capable little device that enables people of all ages to explore computing, and to learn how to program in languages like Scratch and Python. It’s capable of doing everything you’d expect a desktop computer to do, from browsing the internet and playing high-definition video, to making spreadsheets, word-processing, and playing games.  As a dev board it is also very handy for quickly connecting to various sensors for flexible prototyping.
 
 If you were looking for Azure Sphere, go [here](https://github.com/jasonerrett/AzureIoT_HelloSphere)
@@ -42,6 +42,7 @@ The Raspberry Pi is now running a version of Linux.  What this means for you is 
 Here are a couple of guides you may be intersted in:
 - [Connect Raspberry Pi to Azure IoT Hub (Node.js)](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-kit-node-get-started)
 - [Connect Raspberry Pi to Azure IoT Hub (C)](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-kit-c-get-started)
+- For Python, you will need the RPi.GPIO library mentioned [here](https://www.raspberrypi-spy.co.uk/2012/05/install-rpi-gpio-python-library/)
 - [Azure IoT Hub get started with physical devices tutorials](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-get-started-physical)
 
 ## What Now?
