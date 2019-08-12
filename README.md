@@ -94,7 +94,9 @@ Now that your device is sending data to Azure IoT Hub and/or IoT Central, you ha
 - [Other edX Courses](https://www.edx.org/course?search_query=Azure)
 
 ## Other Useful Stuff
+- [Anomaly Detection in Azure Stream Analytics](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-machine-learning-anomaly-detection)
 - [Custom Vision at the Edge Walkthrough](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-custom-vision)
+- [Container Support in Azure Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support)
 - [Using the MXChip IoT DevKit](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-door-monitor)
 - [Azure IoT Secrurity](https://azure.microsoft.com/en-us/overview/iot/security/)
 - [Azure Security Center for IoT](https://docs.microsoft.com/en-us/azure/asc-for-iot/overview)
@@ -106,3 +108,4 @@ Now that your device is sending data to Azure IoT Hub and/or IoT Central, you ha
 
 
 
+ 
