@@ -17,7 +17,7 @@ These are not all required.  I will show some of them in the video, but if you h
 - [Etcher](https://www.balena.io/etcher/)
 
 ## Getting Started with Raspberry Pi
-If you just want to follow an existing guide on Azure Docs, feel free to skip this section.
+If you want to follow an end-to-end guide on Azure Docs, feel free to skip this section.  This is provided for those of you who want to work with Raspberry Pi on other things.  It's a simple guide on getting up and running with Pi.
 - Hardware Overview
     - GPIO pins are your gateway to interacting with the "real" world.  This site, [Learn Robotics](https://www.learnrobotics.org/blog/raspberry-pi-gpio/
 ), has a good explanation of the hardware layout and pins
