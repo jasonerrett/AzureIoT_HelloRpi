@@ -45,6 +45,7 @@ Here are a couple of guides you may be intersted in:
 - [Connect Raspberry Pi to Azure IoT Hub (C)](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-kit-c-get-started)
 - For Python, you will need the RPi.GPIO library mentioned [here](https://www.raspberrypi-spy.co.uk/2012/05/install-rpi-gpio-python-library/)
     - [DHT22 Temp Sensor Example](https://pimylifeup.com/raspberry-pi-humidity-sensor-dht22/)
+    - [Sending data to IoT Hub with Python](https://github.com/Azure-Samples/azure-iot-samples-python/archive/master.zip )
 - [Azure IoT Hub get started with physical devices tutorials](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-get-started-physical)
 
 ## What Now?
