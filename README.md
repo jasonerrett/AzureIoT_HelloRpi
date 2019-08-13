@@ -51,6 +51,12 @@ Here are a couple of guides you may be intersted in:
 ## What Now?
 Now that your device is sending data to Azure IoT Hub and/or IoT Central, you have an enormous amount of capabilities to add and explorer.  Below are just a few of the most common data services typically used in IoT architectures.
 
+I also want to point you do a great sample project on how to build a web app that displays real-time data from IoT, and how easy it is to add MFA.
+
+- [Real-time Web Application](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-web-apps)
+- [Adding Multi-factor Authentication](https://docs.microsoft.com/en-us/azure/app-service/configure-authentication-provider-aad)
+
+
 Azure Portal: **https://portal.azure.com**
 
 ## Azure Services Common in IoT Architectures
