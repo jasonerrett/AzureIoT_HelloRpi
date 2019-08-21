@@ -1,0 +1,14 @@
+WITH AnomalyDetectionStep AS
+(
+    SELECT *, AnomalyDetection_SpikeAndDip(temperature, 95, 120, 'spikesanddips')
+            OVER(LIMIT DURATION(second, 120)) AS SpikeAndDipScores
+    FROM myiothub
+    WHERE IoTHub.ConnectionDeviceId = 'jeRPiRealDevice'
+)
+SELECT *
+INTO cosmos
+FROM AnomalyDetectionStep
+
+SELECT *
+INTO powerbi
+FROM AnomalyDetectionStep
